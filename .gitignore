@@ -1,0 +1,15 @@
+.vscode/
+.history/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.tmp
+*.log
+*.bak
+*.swp
+*.DS_Store
+*.vscode-test
+GEMINI.MD
+/wfs_data/
+/gemcontact.txt

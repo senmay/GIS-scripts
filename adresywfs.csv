@@ -1,0 +1,386 @@
+﻿Organ zgłaszający;Usługa pobierania ▴
+Starosta Żywiecki;https://zywiecki-wms.webewid.pl/iip/ows
+Starosta Zwoleński;https://zwolenpowiat.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Żuromińskiego;https://zuromin-powiat.geoportal2.pl/map/geoportal/wfse.php
+Starosta Żniński;https://zninski-wms.webewid.pl/iip/ows
+Starosta Zgierski;https://zgierski-wms.webewid.pl:743/iip/ows
+Starosta Powiatu Żarskiego;https://zary.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Miasta Zamość;https://zamosc.geoportal2.pl/map/geoportal/wfs.php
+Starosta Żagański;https://zaganski-wms.webewid.pl/iip/ows
+Starosta Ząbkowicki;https://zabkowicki.webewid.pl:444/iip/ows
+Starosta Wołowski;https://wolowski-wms.webewid.pl/iip/ows
+Burmistrz Miasta i Gminy Wolbrom;https://wolbrom.webewid.pl:4444/iip/ows
+Prezydent Miasta Gliwice;https://wmswfs-geodezja.gliwice.eu/iip/ows
+Prezydent Miasta Stołecznego Warszawy;https://wms2.um.warszawa.pl/geoserver/wfs/wfs
+Prezydent Miasta Zawiercie;https://wms.zawiercie.eu/zawiercie-egib
+Starosta Wrzesiński;https://wms.wrzesnia.powiat.pl/wrzesnia-egib
+Starosta Powiatu Wrocławskiego;https://wms.wrosip.pl/iip/ows
+Prezydent Miasta Tarnowa;https://wms.umt.tarnow.pl/iip/ows
+Prezydent Miasta Sopot;https://wms.um.sopot.pl/iip/ows
+Prezydent Miasta Opola;https://wms.um.opole.pl/opole-egib
+Starosta Powiatu Szamotulskiego;https://wms.szamotuly.com.pl/szamotuly-egib
+Starosta Ostrzeszowski;https://wms.spostrzeszow.pl/ostrzeszow-egib
+Prezydent Miasta Słupska;https://wms.slupsk.eu/iip/ows
+Prezydent Miasta Piekary Śląskie;https://wms.sip.piekary.pl/piekary-egib
+Starosta Warszawski Zachodni;https://wms.pwz.pl/iip/ows
+Starosta Powiatu Starogardzkiego;https://wms.powiatstarogard.pl/iip/ows
+Starosta Powiatu Średzkiego;https://wms.powiatsredzki.pl/srodawlkp-egib
+Starosta Rawski;https://wms.powiatrawski.pl/iip/ows
+Starosta Nowotomyski;https://wms.powiatnowotomyski.pl/nowytomysl-egib
+Starosta Myśliborski;https://wms.powiatmysliborski.com.pl/mysliborz-egib
+Starosta Powiatu Łobeskiego;https://wms.powiatlobeski.pl/lobez-egib
+Starosta Krośnieński;https://wms.powiatkrosnienski.pl/krosno-egib
+Starosta Kościański;https://wms.powiatkoscian.pl/koscian-egib
+Starosta Powiatu Grudziądzkiego;https://wms.powiatgrudziadzki.pl/iip/ows
+Starosta Tczewski;https://wms.powiat.tczew.pl/iip/ows
+Starosta Powiatu Słupskiego;https://wms.powiat.slupsk.pl/iip/ows
+Starosta Powiatu Krakowskiego;https://wms.powiat.krakow.pl:1518/iip/ows
+Starosta Złotoryjski;https://wms.powiat-zlotoryja.pl/zlotoryja-egib
+Starosta Śremski;https://wms.powiat-srem.pl/srem-egib
+Starosta Powiatu Nowosolskiego;https://wms.powiat-nowosolski.pl/nowasol-egib
+Starosta Karkonoski;https://wms.podgik.jgora.pl/jeleniagora-egib
+Starosta Nowosądecki;https://wms.nowosadecki.pl/iip/ows
+Starosta Nowosądecki;https://wms.nowosadecki.pl/iip/ows
+Prezydent Miasta Mysłowice;https://wms.myslowice.pl/myslowice-egib
+Prezydent Miasta Zabrze;https://wms.miastozabrze.pl/iip/ows
+Prezydent Miasta Legnicy;https://wms.legnica.eu/iip/ows
+Prezydent Miasta Kielce;https://wms.kielce.eu/kielce-egib
+Starosta Kamiennogórski;https://wms.kamienna-gora.pl/kamiennagora-egib
+Starosta Powiatu Gnieźnieńskiego;https://wms.geodezjagniezno.pl/gniezno-egib
+Prezydent Miasta Elbląg;https://wms.geodezja.elblag.eu/elblag-wms
+Starosta Powiatu Pleszewskiego;https://wms.geo.net.pl/pleszew-egib
+Starosta Powiatu Wołomińskiego;https://wms.epodgik.pl/cgi-bin/wolomin
+Starosta Włodawski;https://wms.epodgik.pl/cgi-bin/wlodawa
+Starosta Wejherowski;https://wms.epodgik.pl/cgi-bin/wejherowo
+Starosta Węgrowski;https://wms.epodgik.pl/cgi-bin/wegrow
+Starosta Węgorzewski;https://wms.epodgik.pl/cgi-bin/wegorzewo
+Starosta Pruszkowski;https://wms.epodgik.pl/cgi-bin/pruszkow
+Starosta Piaseczyński;https://wms.epodgik.pl/cgi-bin/piaseczno
+Starosta Powiatu Mrągowskiego;https://wms.epodgik.pl/cgi-bin/mragowo
+Starosta Miński;https://wms.epodgik.pl/cgi-bin/minsk
+Starosta Międzychodzki;https://wms.epodgik.pl/cgi-bin/miedzychod
+Prezydent Miasta Chełm;https://wms.epodgik.pl/cgi-bin/mchelm
+Starosta Powiatu Giżyckiego;https://wms.epodgik.pl/cgi-bin/gizycko
+Prezydent Miasta Szczecin;https://wms.e-osrodek.szczecin.pl/szczecin-egib
+Starosta Powiatu Człuchowskiego;https://wms.czluchow.org.pl/iip/ows
+Starosta Powiatu Czarnkowsko-Trzcianeckiego;https://wms.czarnkowsko-trzcianecki.pl/czarnkowskotrzcianecki-egib
+Starosta Powiatu Świeckiego;https://wms.csw.pl/iip/ows
+Prezydent Miasta Płocka;https://wms-ggk.plock.eu:4443/iip/ows
+Starosta Chodzieski;https://wms-geo.powiat-chodzieski.pl/chodziez-egib
+Starosta Powiatu Nyskiego;https://wms-egib.powiat.nysa.pl/nysa-egib
+Starosta Powiatu Włoszczowskiego;https://wloszczowa.geoportal2.pl/map/geoportal/wfs.php
+Starosta Włocławski;https://wloclawek.geoportal2.pl/map/geoportal/wfs.php
+Starosta Wieruszowski;https://wieruszow.geoportal2.pl/map/geoportal/wfse.php
+Starosta Wieluński;https://wielun.geoportal2.pl/map/geoportal/wfs.php
+Starosta Wielicki;https://wielicki-wms.webewid.pl/iip/ows
+Starosta Policki;https://wgkik.policki.pl/police-egib
+Prezydent Olsztyna;https://webewidwms.olsztyn.eu/iip/ows
+Starosta Tarnowski;https://webewid.powiat.tarnow.pl:20443/iip/ows
+Prezydent Miasta Białegostoku;https://webewid-wms.um.bialystok.pl/iip/ows
+Starosta Wałecki;https://walecki.webewid.pl:4434/iip/ows
+Starosta Wałbrzyski;https://walbrzyski-wms.webewid.pl/iip/ows
+Prezydent Miasta Wałbrzycha;https://walbrzych-wms.webewid.pl/iip/ows
+Starosta Wadowicki;https://wadowicki.webewid.pl:20443/iip/ows
+Starosta Wąbrzeski;https://wabrzezno.geoportal2.pl/map/geoportal/wfs.php
+Starosta Tucholski;https://tucholski-wms.webewid.pl/iip/ows
+Starosta Powiatu Trzebnickiego;https://trzebnicki-wms.webewid.pl/iip/ows
+Starosta Toruński;https://torunski-wms.webewid.pl/iip/ows
+Starosta Tomaszowski;https://tomaszowlubelski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Tatrzański;https://tatrzanski-wms.webewid.pl/iip/ows
+Starosta Powiatu Tarnobrzeskiego;https://tarnobrzeski.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Miasta Tarnobrzega;https://tarnobrzeg.geoportal2.pl/map/geoportal/wfse.php
+Starosta Szydłowiecki;https://szydlowiecpowiat.geoportal2.pl/map/geoportal/wfs.php
+Starosta Szczecinecki;https://szczecinecki-wms.webewid.pl/iip/ows
+Prezydent Miasta Świętochłowice;https://swietochlowice.geoportal2.pl/map/geoportal/wfs.php
+Starosta Świdwiński;https://swidwinski-wms.webewid.pl/iip/ows
+Starosta Świdnicki;https://swidnicki-wms.webewid.pl/iip/ows
+Starosta Sulęciński;https://sulecin.geoportal2.pl/map/geoportal/wfs.php
+Starosta Strzyżowski;https://strzyzowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Strzeliński;https://strzelinski-wms.webewid.pl/iip/ows
+Starosta Staszowski;https://staszow.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Starachowickiego;https://starachowice.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Stalowowolskiego;https://stalowawola.geoportal2.pl/map/geoportal/wfs.php
+Starosta Ropczycko-Sędziszowski;https://spropczyce.geoportal2.pl/map/geoportal/wfs.php
+Starosta Sochaczewski;https://sochaczew.geoportal2.pl/map/geoportal/wfs.php
+Starosta Słubicki;https://slubice.geoportal2.pl/map/geoportal/wfs.php
+Starosta Sławieński;https://slawienski.webewid.pl:4443/iip/ows
+Prezydent Miasta Skierniewice;https://skierniewice.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Przeworskiego;https://sip.powiatprzeworsk.pl:4443/iip/ows
+Starosta Sierpecki;https://sierpc.geoportal2.pl/map/geoportal/wfse.php
+Starosta Sieradzki;https://sieradz.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Miasta Siemianowice Śląskie;https://siemianowice.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Miasta Siedlce;https://siedlce.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Sępoleńskiego;https://sepolenski-wms.webewid.pl/iip/ows
+Starosta Powiatu Sejneńskiego;https://sejny.geoportal2.pl/map/geoportal/wfs.php
+Starosta Bieruńsko-Lędziński;https://sbl.webewid.pl:8443/iip/ows
+Starosta Powiatu Sanockiego;https://sanocki.webewid.pl:8443/iip/ows
+Starosta Sandomierski;https://sandomierz.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Ryckiego;https://ryki.geoportal2.pl/map/geoportal/wfs.php
+Starosta Rybnicki;https://rybnik.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Miasta Ruda Śląska;https://rudaslaska.geoportal2.pl/map/geoportal/wfse.php
+Starosta Radziejowski;https://radziejow.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Radomszczańskiego;https://radomszczanski.geoportal2.pl/map/geoportal/wfse.php
+Starosta Radomski;https://radom.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Raciborskiego;https://raciborz.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Puławskiego;https://pulawy.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Pszczyńskiego;https://pszczynski-wms.webewid.pl/iip/ows
+Prezydent Miasta Przemyśla;https://przemysl.geoportal2.pl/map/geoportal/wfs.php
+Starosta Przasnyski;https://przasnysz.geoportal2.pl/map/geoportal/wfse.php
+Starosta Zamojski;https://powiatzamojski.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Zambrowskiego;https://powiatzambrowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Świdnicki;https://powiatswidnik.geoportal2.pl/map/geoportal/wfs.php
+Starosta Suski;https://powiatsuski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Sokólski;https://powiatsokolski.geoportal2.pl/map/geoportal/wfse.php
+Starosta Siedlecki;https://powiatsiedlecki.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Rzeszowskiego;https://powiatrzeszowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Radzyński;https://powiatradzynski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Pułtuski;https://powiatpultuski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Piski;https://powiatpiski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Olsztyńskiego;https://powiatolsztynski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Nidzickiego;https://powiatnidzicki.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Mławskiego;https://powiatmlawski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Łukowski;https://powiatlukowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Lubelskiego;https://powiatlubelski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Lubartowski;https://powiatlubartowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Lipski;https://powiatlipsko.geoportal2.pl/map/geoportal/wfs.php
+Starosta Lidzbarski;https://powiatlidzbarski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Kutnowskiego;https://powiatkutno.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Krasnostawskiego;https://powiatkrasnostawski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Kłobucki;https://powiatklobucki.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Kętrzyńskiego;https://powiatketrzynski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Gorzowski;https://powiatgorzowski.geoportal2.pl/map/geoportal/wfse.php
+Starosta Gołdapski;https://powiatgoldap.geoportal2.pl/map/geoportal/wfs.php
+Starosta Ełcki;https://powiatelk.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Działdowskiego;https://powiatdzialdowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Bialskiego;https://powiatbialski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Bartoszyckiego;https://powiatbartoszyce.geoportal2.pl/map/geoportal/wfs.php
+Starosta Tomaszowski;https://powiat-tomaszowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Sokołowski;https://powiat-sokolowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Skierniewickiego;https://powiat-skierniewice.geoportal2.pl/map/geoportal/wfs.php
+Starosta Przemyski;https://powiat-przemysl.geoportal2.pl/map/geoportal/wfs.php
+Starosta Płocki;https://powiat-plock.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Otwockiego;https://powiat-otwocki.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Nowomiejskiego;https://powiat-nowomiejski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Niżańskiego;https://powiat-nisko.geoportal2.pl/map/geoportal/wfs.php
+Starosta Międzyrzecki;https://powiat-miedzyrzecki.geoportal2.pl/map/geoportal/wfse.php
+Starosta Braniewski;https://powiat-braniewo.geoportal2.pl/map/geoportal/wfse.php
+Prezydent Miasta Poznania;https://portal.geopoz.poznan.pl/wmsegib
+Starosta Polkowicki;https://polkowicki-wms.webewid.pl/iip/ows
+Starosta Płoński;https://plonski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Piotrkowskiego;https://piotrkow.geoportal2.pl/map/geoportal/wfs.php
+Starosta Pińczowski;https://pinczow.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Puckiego;https://pdp.puck.pl/iip/ows
+Prezydent Miasta Gdyni;https://pc73.miasto.gdynia.pl/iip/ows
+Starosta Powiatu Pajęczańskiego;https://pajeczno.geoportal2.pl/map/geoportal/wfs.php
+Starosta Pabianicki;https://pabianice.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Oświęcimskiego;https://oswiecimski.webewid.pl:4422/iip/ows
+Starosta Ostrowski;https://ostrowmaz.geoportal2.pl/map/geoportal/wfs.php
+Starosta Ostrowiecki;https://ostrowiec.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Miasta Ostrołęki;https://ostroleka.geoportal2.pl/map/geoportal/wfs.php
+Starosta Ostródzki;https://ostroda.geoportal2.pl/map/geoportal/wfse.php
+Prezydent Miasta Rzeszowa;https://osrodek.erzeszow.pl/map/geoportal/wfs.php
+Starosta Powiatu Opolskiego;https://opolelubelskie.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Opoczyńskiego;https://opoczno.geoportal2.pl/map/geoportal/wfs.php
+Starosta Olkuski;https://olkuski.webewid.pl:4434/iip/ows
+Starosta Powiatu Oleśnickiego;https://olesnicki.webewid.pl:4444/iip/ows
+Starosta Nowotarski;https://nowotarski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Nowodworskiego;https://nowodworski.webewid.pl:4444/iip/ows
+Starosta Nakielski;https://nakielski.webewid.pl:62627/iip/ows
+Prezydent Miasta Torunia;https://mtorun-wms.webewid.pl/iip/ows
+Starosta Moniecki;https://monki.geoportal2.pl/map/geoportal/wfs.php
+Starosta Mogileński;https://mogilenski.webewid.pl:4444/iip/ows
+Starosta Milicki;https://milicki-wms.webewid.pl/iip/ows
+Starosta Powiatu Mieleckiego;https://mielec.geoportal2.pl/map/geoportal/wfs.php
+Starosta Miechowski;https://miechow.geoportal2.pl/map/geoportal/wfs.php
+Burmistrz Miasta Cieszyna;https://miastocieszyn.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Strzeleckiego;https://mapy.powiatstrzelecki.pl/ggp
+Prezydent Miasta Koszalina;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/3261
+Starosta Powiatu Krotoszyńskiego;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/3012
+Prezydent Miasta Sosnowiec;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2475
+Starosta Sztumski;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2216
+Starosta Suwalski;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2012
+Starosta Proszowicki;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1214
+Starosta Powiatu Myślenickiego;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1209
+Starosta Zduńskowolski;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1019
+Starosta Powiatu Bydgoskiego;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/0403
+Starosta Średzki;https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/0218
+Starosta Powiatu Mikołowskiego;https://mapa.mikolowski.pl/map/geoportal/wfs.php
+Prezydent Miasta Łodzi;https://mapa.lodz.pl/OGC/EGiB/
+Starosta Powiatu Brodnickiego;https://mapa.brodnica.com.pl/map/geoportal/wfs.php
+Starosta Powiatu Aleksandrowskiego;https://mapa.aleksandrow.pl/map/geoportal/wfs.php
+Starosta Malborski;https://malborski-wms.webewid.pl/iip/ows
+Starosta Makowski;https://makow.geoportal2.pl/map/geoportal/wfs.php
+Starosta Lubiński;https://lubinski-wms.webewid.pl/iip/ows
+Starosta Powiatu Lubaczowskiego;https://lubaczow.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Łosickiego;https://losice.geoportal2.pl/map/geoportal/wfse.php
+Prezydent Miasta Łomża;https://lomzynski-wms.webewid.pl/iip/ows
+Starosta Łomżyński;https://lomzynski-wms.webewid.pl/iip/ows
+Starosta Łódzki Wschodni;https://lodzkiwschodni.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Lipnowskiego;https://lipno.geoportal2.pl/map/geoportal/wfs.php
+Starosta Limanowski;https://limanowski-wms.webewid.pl/iip/ows
+Starosta Leżajski;https://lezajsk.geoportal2.pl/map/geoportal/wfs.php
+Starosta Leszczyński;https://leszczynski.webewid.pl:543/iip/ows
+Starosta Powiatu Leskiego;https://lesko.geoportal2.pl/map/geoportal/wfs.php
+Starosta Legnicki;https://legnicki-wms.webewid.pl/iip/ows
+Starosta Łęczycki;https://leczycki.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Łęczyńskiego;https://leczna.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Lęborskiego;https://leborski.webewid.pl:44443/iip/ows
+Starosta Łaski;https://lask.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Łańcuckiego;https://lancut.geoportal2.pl/map/geoportal/wfs.php
+Starosta Kwidzyński;https://kwidzynski-wms.webewid.pl/iip/ows
+Prezydent Miasta Krosna;https://krosno-wms.webewid.pl/iip/ows
+Starosta Krośnieński;https://krosnienski-wms.webewid.pl/iip/ows
+Starosta Kraśnicki;https://krasnicki-wms.webewid.pl/iip/ows
+Starosta Kozienicki;https://kozienicepowiat.geoportal2.pl/map/geoportal/wfs.php
+Starosta Koszaliński;https://koszalinski-wms.webewid.pl/iip/ows
+Starosta Kościerski;https://koscierski-wms.webewid.pl/iip/ows
+Starosta Powiatu Koneckiego;https://konskie.geoportal2.pl/map/geoportal/wfs.php
+Starosta Koniński;https://konin.geoportal2.pl/map/geoportal/wfs.php
+Starosta Kołobrzeski;https://kolobrzeski-wms.webewid.pl/iip/ows
+Starosta Kolneński;https://kolnenski-wms.webewid.pl/iip/ows
+Starosta Kolbuszowski;https://kolbuszowa.geoportal2.pl/map/geoportal/wfs.php
+Burmistrz Gminy Kęty;https://kety.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Kazimierskiego;https://kazimierzaw.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Kartuskiego;https://kartuski-wms.webewid.pl/iip/ows
+Starosta Kaliski;https://kalisz.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Jędrzejowskiego;https://jedrzejow.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Miasta Jaworzna;https://jaworzno-wms.webewid.pl/iip/ows
+Starosta Jaworski;https://jawor.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Miasta Jastrzębie-Zdrój;https://jastrzebie.geoportal2.pl/map/geoportal/wfs.php
+Starosta Jasielski;https://jasielski-wms.webewid.pl/iip/ows
+Starosta Powiatu Jarosławskiego;https://jaroslawski-wms.webewid.pl/iip/ows
+Starosta Janowski;https://janow.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Wrocławia;https://iwms.zgkikm.wroc.pl/wroclaw-egib
+Prezydent Bytomia;https://iwms.um.bytom.pl/bytom-egib
+Starosta Powiatu Inowrocławskiego;https://inowroclawski-wms.webewid.pl/iip/ows
+Starosta Wodzisławski;https://imapa.powiatwodzislawski.pl/wodzislaw-egib
+Starosta Myszkowski;https://imapa.powiatmyszkowski.pl/myszkow-egib
+Starosta Gostyński;https://imapa.powiat.gostyn.pl/gostyn-egib
+Starosta Powiatu Grodziskiego;https://imapa.podgik-grodziskm.pl/grodziski-egib
+Prezydent Miasta Leszna;https://imapa.leszno.pl/mleszno-egib
+Starosta Powiatu Brzeskiego;https://imapa.brzeg-powiat.pl/brzeg-egib
+Starosta Powiatu Iławskiego;https://ilawa.geoportal2.pl/map/geoportal/wfs.php
+Starosta Stargardzki;https://ikerg2.powiatstargardzki.eu/stargard-egib
+Starosta Prudnicki;https://ikerg2.powiatprudnicki.pl/prudnik-egib
+Starosta Złotowski;https://ikerg.zlotow-powiat.pl/zlotow-egib
+Starosta Zawierciański;https://ikerg.zawiercie.powiat.pl/powiatzawiercianski-egib
+Starosta Wągrowiecki;https://ikerg.wagrowiec.pl/wagrowiec-egib
+Prezydent Miasta Kalisza;https://ikerg.um.kalisz.pl/kalisz-egib
+Starosta Kolski;https://ikerg.starostwokolskie.pl/powiatkolski-egib
+Starosta Pyrzycki;https://ikerg.pyrzyce.pl/pyrzyce-egib
+Starosta Powiatu Wolsztyńskiego;https://ikerg.powiatwolsztyn.pl/wolsztyn-egib
+Starosta Rawicki;https://ikerg.powiatrawicki.pl/rawicz-egib
+Starosta Obornicki;https://ikerg.powiatobornicki.pl/oborniki-egib
+Starosta Lwówecki;https://ikerg.powiatlwowecki.pl/lwowekslaski-egib
+Starosta Powiatu Krapkowickiego;https://ikerg.powiatkrapkowicki.pl/krapkowice-egib
+Starosta Kluczborski;https://ikerg.powiatkluczborski.eu/kluczbork-egib
+Starosta Powiatu Kępińskiego;https://ikerg.powiatkepno.pl/kepno-egib
+Starosta Kamieński;https://ikerg.powiatkamienski.pl/kamien
+Starosta Głubczycki;https://ikerg.powiatglubczycki.pl/cgi-bin/glubczyce-egib
+Starosta Pilski;https://ikerg.powiat.pila.pl/pila-egib
+Starosta Powiatu Elbląskiego;https://ikerg.powiat.elblag.pl/elblaski-egib
+Starosta Będziński;https://ikerg.powiat.bedzin.pl/bedzin-egib
+Starosta Powiatu Żyrardowskiego;https://ikerg.powiat-zyrardowski.pl/zyrardow-egib
+Starosta Słupecki;https://ikerg.powiat-slupca.pl/slupca-egib
+Starosta Ostrowski;https://ikerg.powiat-ostrowski.pl/ostrow-egib
+Starosta Jarociński;https://ikerg.powiat-jarocinski.pl/jarocin-egib
+Starosta Gryficki;https://ikerg.podgikgryfice.pl/gryfice-egib
+Starosta Poznański;https://ikerg.podgik.poznan.pl/wms-poznanski
+Prezydent Miasta Piotrków Trybunalski;https://ikerg.piotrkow.pl/piotrkow-egib
+Starosta Grodziski;https://ikerg.pgw.pl/grodziskwlkp-egib
+Prezydent Miasta Radomia;https://ikerg.modgik.radom.pl/radom-egib
+Prezydent Miasta Konina;https://ikerg.kosit.konin.eu/konin-egib
+Starosta Choszczeński;https://ikerg.geopowiatchoszczno.pl/choszczno-egib
+Starosta Kędzierzyńsko-Kozielski;https://ikerg.geo.powiat.kedzierzyn-kozle.pl/kedzierzynkozle-egib
+Prezydent Miasta Bielska-Białej;https://ikerg.bielsko-biala.pl/bielsko-egib
+Starosta Lubański;https://iegib.powiatluban.pl/luban-egib
+Starosta Zgorzelecki;https://iegib.powiat.zgorzelec.pl/zgorzelec-egib
+Starosta Powiatu Tureckiego;https://iegib.powiat.turek.pl/cgi-bin/turek_egib
+Starosta Namysłowski;https://iegib.namyslow.pl/cgi-bin/namyslow-egib
+Starosta Powiatu Hrubieszowskiego;https://hrubieszow.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Gryfińskiego;https://gryfinski.webewid.pl:4439/iip/ows
+Starosta Grójecki;https://grojec.geoportal2.pl/map/geoportal/wfs.php
+Starosta Gostyniński;https://gostynin.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Gorlickiego;https://gorlicki.webewid.pl:4443/iip/ows
+Starosta Górowski;https://gora.geoportal2.pl/map/geoportal/wfs.php
+Starosta Golubsko-Dobrzyński;https://golubsko-dobrzynski-wms.webewid.pl/iip/ows
+Starosta Goleniowski;https://goleniowski.webewid.pl:6443/iip/ows
+Starosta Głogowski;https://glogow.geoportal2.pl/map/geoportal/wfs.php
+Starosta Gliwicki;https://gliwicki.webewid.pl:4443/iip/ows
+Prezydent Miasta Zielona Góra;https://gis.um.zielona-gora.pl/arcgis/services/zielona_gora_egib/serwer
+Prezydent Miasta Lublin;https://gis.lublin.eu/opendata/wfs
+Starosta Świebodziński;https://giportal2.powiat.swiebodzin.pl/swiebodzin-egib
+Starosta Oleski;https://giportal.powiatoleski.pl/olesno-egib
+Starosta Zielonogórski;https://giportal.powiat-zielonogorski.pl/zielonagora-egib
+Prezydent Miasta Tychy;https://geowms.umtychy.pl/iip/ows
+Prezydent Miasta Żory;https://geoportal.zory.pl/usluga/iip/wfs/geodezja
+Prezydent Miasta Gorzowa Wielkopolskiego;https://geoportal.wms.um.gorzow.pl/map/geoportal/wfs.php
+Prezydent Miasta Włocławek;https://geoportal.wloclawek.eu/map/geoportal/wfs.php
+Prezydent Miasta Suwałk;https://geoportal.um.suwalki.pl/ggp
+Starosta Powiatu Siemiatyckiego;https://geoportal.siemiatycze.pl/siemiatycze-egib
+Starosta Bolesławiecki;https://geoportal.powiatboleslawiecki.pl/ggp
+Starosta Kłodzki;https://geoportal.powiat.klodzko.pl/ggp
+Starosta Powiatu Kieleckiego;https://geoportal.powiat.kielce.pl/map/geoportal/wfs.php
+Starosta Dzierżoniowski;https://geoportal.pow.dzierzoniow.pl/ggp
+Prezydent Miasta Jelenia Góra;https://geoportal.jeleniagora.pl/ggp
+Prezydent Grudziądza;https://geoportal.grudziadz.pl/ggp
+Prezydent Miasta Częstochowy;https://geoportal.czestochowa.pl/wfs2464_egib/Service.svc/get
+Prezydent Miasta Dąbrowa Górnicza;https://geoportal-wms.dg.pl/iip/ows
+Starosta Opolski;https://geodezja.powiatopolski.pl/ggp
+Starosta Powiatu Buskiego;https://geodezja.powiat.busko.pl/map/geoportal/wfs.php
+Prezydent Miasta Krakowa;https://geodezja.eco.um.krakow.pl/krakow-egib
+Prezydent Miasta Rybnika;https://geodeta.gpue.rybnik.eu/rybnik-egib
+Starosta Tarnogórski;https://geodane.tarnogorski.pl/iip/ows
+Prezydent Miasta Świnoujście;https://geo-wms.um.swinoujscie.pl/swinoujscie
+Starosta Powiatu Gdańskiego;https://gdanski-wms.webewid.pl/iip/ows
+Starosta Powiatu Garwolińskiego;https://garwolinski.geoportal2.pl:8443/map/geoportal/wfs.php
+Starosta Strzelecko-Drezdenecki;https://fsd.geoportal2.pl/map/geoportal/wfse.php
+Starosta Oławski;https://ewid.starostwo.olawa.pl:4444/iip/ows
+Prezydent Miasta Gdańska;https://ewid-wms.gdansk.gda.pl/iip/ows
+Prezydent Miasta Katowice;https://emapa.katowice.eu/arcgis/services/wms_egib_gugik/MapServer/WFSServer
+Prezydent Miasta Bydgoszczy;https://e-uslugi.mpg.bydgoszcz.pl/ggp
+Prezydent Miasta Chorzów;https://e-odgik.chorzow.eu/arcgis/services/wfs/chorzow_egib_publ/MapServer/WFSServer
+Starosta Drawski;https://drawski-wms.webewid.pl/iip/ows
+Starosta Powiatu Dębickiego;https://debica.geoportal2.pl/map/geoportal/wfs.php
+Starosta Dąbrowski;https://dabrowski-wms.webewid.pl/iip/ows
+Starosta Powiatu Częstochowskiego;https://czestochowa.geoportal2.pl/map/geoportal/wfse.php
+Burmistrz Czechowic-Dziedzic;https://czechowice.geoportal2.pl/map/geoportal/wfs.php
+Starosta Cieszyński;https://cieszyn.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Ciechanowskiego;https://ciechanow.geoportal2.pl/map/geoportal/wfs.php
+Starosta Chrzanowski;https://chrzanowski.webewid.pl:22443/iip/ows
+Starosta Powiatu Chojnickiego;https://chojnicki-wms.webewid.pl/iip/ows
+Starosta Chełmski;https://chelmski-wms.webewid.pl/iip/ows
+Starosta Powiatu Chełmińskiego;https://chelminski.webewid.pl:44316/iip/ows
+Starosta Bytowski;https://bytowski.webewid.pl:4433/iip/ows
+Starosta Powiatu Brzozowskiego;https://brzozowski.webewid.pl:4443/iip/ows
+Starosta Powiatu Brzeskiego;https://brzesko.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Bocheńskiego;https://bochenski-wms.webewid.pl/iip/ows
+Starosta Biłgorajski;https://bilgorajski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Bieszczadzki;https://bieszczadzki-wms.webewid.pl:4434/iip/ows
+Starosta Bielski;https://bielski-ows.webewid.pl/iip/ows
+Starosta Powiatu Białostockiego;https://bialystok.geoportal2.pl/map/geoportal/wfs.php
+Starosta Białogardzki;https://bialogardzki-wms.webewid.pl/iip/ows
+Starosta Białobrzeski;https://bialobrzegi.geoportal2.pl/map/geoportal/wfs.php
+Starosta Augustowski;https://augustowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Wysokomazowieckiego;http://wysokomazowiecki.geoportal2.pl/map/geoportal/wfse.php
+Starosta Wschowski;http://wschowa.geoportal2.pl/map/geoportal/wfse.php
+Starosta Lubliniecki;http://wms.lubliniec.starostwo.gov.pl/lubliniec-egib
+Starosta Powiatu Szczycieńskiego;http://szczytno.geoportal2.pl/map/geoportal/wfs.php
+Starosta Grajewski;http://starostwograjewo.geoportal2.pl/map/geoportal/wfs.php
+Starosta Skarżyski;http://skarzysko.geoportal2.pl/map/geoportal/wfs.php
+Starosta Powiatu Rypińskiego;http://rypin.geoportal2.pl/map/geoportal/wfse.php
+Starosta Przysuski;http://przysucha.geoportal2.pl/map/geoportal/wfs.php
+Starosta Ostrołęcki;http://powiatostrolecki.geoportal2.pl/map/geoportal/wfse.php
+Starosta Bielski w Bielsku Podlaskim;http://powiatbielski.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Wyszkowskiego;http://powiat-wyszkowski.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Legionowskiego;http://powiat-legionowski.geoportal2.pl/map/geoportal/wfs.php
+Starosta Poddębicki;http://poddebice.geoportal2.pl/map/geoportal/wfs.php
+Starosta Parczewski;http://parczew.geoportal2.pl/map/geoportal/wfs.php
+Starosta Opatowski;http://opatow.geoportal2.pl/map/geoportal/wfse.php
+Starosta Olecki;http://olecko.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Nowodworskiego;http://nowodworski.geoportal2.pl/map/geoportal/wfse.php
+Starosta Łowicki;http://lowicz.geoportal2.pl/map/geoportal/wfse.php
+Starosta Hajnowski;http://hajnowka.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Brzezińskiego;http://brzeziny.geoportal2.pl/map/geoportal/wfs.php
+Prezydent Miasta Biała Podlaska;http://bialapodlaska.geoportal2.pl/map/geoportal/wfse.php
+Starosta Powiatu Bełchatowskiego;http://belchatow.geoportal2.pl/map/geoportal/wfs.php
